@@ -1,9 +1,13 @@
 commit 1 commit 1
 commit 1 commit 1
 commit 1 commit 1
+<<<<<<< HEAD
 commit 1 commit 1
 
 commit 2 commit 2
 commit 2 commit 2
 commit 2 commit 2
 commit 2 commit 2
+=======
+commit 1 commit 1
+>>>>>>> be558b52d84c951a1e711f7c6136e7d2c1643a43
